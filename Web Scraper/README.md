@@ -5,6 +5,9 @@ This is a webscraper that scrapes properties for sale and for rent from common r
 
 This project is built with .
 
+- HTML
+- CSS
+- Javascript
 - Vite
 - TypeScript
 - React
